@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "exercicio-teste-unitarios",
-    "slug": "exercicio-teste-unitarios",
+    "name": "juanmelocicd",
+    "slug": "juanmelocicd",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -32,7 +32,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "988a3778-472f-4638-b603-8685c05333a5"
+        "projectId": "79c4c48a-3a8a-4b4a-ae3f-e15b378f4f79"
       }
     }
   }
